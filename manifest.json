@@ -1,0 +1,18 @@
+{
+	"format_version": 2,
+	"header": {
+		"description": "Lightly tinted screen when holding torch",
+		"name": "Torch_Light",
+		"uuid": "9e53e0d0-4e0c-4d58-abcd-433d1e06f827",
+		"version": [ 0,0,1 ],
+		"min_engine_version": [ 1, 18, 0 ]
+	},
+	"modules": [
+		{
+			"description": "",
+			"type": "resources",
+			"uuid": "63db0300-3011-4c37-8745-5389ef1c2757",
+			"version": [0, 0, 1]
+		}
+	]
+}
